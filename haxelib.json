@@ -1,0 +1,19 @@
+{
+	"name": "react-native-webview",
+	"license": "MIT",
+	"tags": [
+	  "react",
+	  "native",
+	  "webview"
+	],
+	"classPath": "src",
+	"contributors": [
+	  "kevinresol"
+	],
+	"releasenote": "Initial release",
+	"version": "0.1.0",
+	"url": "https://github.com/haxe-react/haxe-react-native-webview",
+	"dependencies": {
+	  "react-native": ""
+	}
+  }
